@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sub sub
+=======
+master local
+>>>>>>> master
